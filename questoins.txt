@@ -1,0 +1,3 @@
+grid search for finding the learning rate
+E the tolerance in sgd..
+check out the difference between .rand and .randn
